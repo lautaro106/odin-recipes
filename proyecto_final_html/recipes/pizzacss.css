@@ -1,0 +1,38 @@
+#inicio
+{
+    background-color: goldenrod;
+    color: rgb(223, 2, 2);
+    font-family: Georgia;
+    padding: 6px;
+    border: 5px;
+    border-style:ridge;
+    text-align: center;
+}
+.subinicio
+{
+    color: rgb(37, 33, 33);
+    background-color: rgb(215, 235, 255);
+    font-family: Verdana;
+    text-align: center;
+}
+.alinear
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.ingredientes
+{
+    background-color: chocolate;
+    color: turquoise;
+    font-family: Georgia;
+    text-align: center;
+}
+.ingredienteslista
+{
+    background-color:bisque;
+    color: brown;
+    font-family: Georgia;
+
+}

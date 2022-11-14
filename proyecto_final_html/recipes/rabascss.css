@@ -1,0 +1,54 @@
+.COTI
+{
+    background-color:palegoldenrod;
+    color:indianred;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    padding: 3px;
+}
+.JULI
+{
+    background-color: rgb(81, 105, 31);
+    color: rgb(248, 156, 36);
+    font-size: large;
+    font-style: oblique;
+    font-family: Tahoma;
+
+}
+.ROMINA
+{
+    font-family: sans-serif;
+    text-align: center;
+    background-color:crimson;
+    color: beige;
+    border: 6px;
+    border-style:double;
+    padding: 7px;
+}
+.CONE
+{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: darkred;
+    color: cornsilk;
+}
+.MARCOS
+{
+    font-family: Times;
+    background-color: sandybrown;
+    color:black;
+    border: 6px;
+    border-style: solid;
+    border-color: brown;
+}
+.FRODO
+{
+    font-family: Times;
+    background-color: sandybrown;
+    color:black;
+    border: 6px;
+    border-style: solid;
+    border-color: brown;
+}

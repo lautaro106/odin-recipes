@@ -1,0 +1,31 @@
+
+.ingredientes
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 223, 33);
+    font-weight: bold;
+    font-style: italic;
+}
+#sal, .t1
+{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    
+}
+.prepara
+{
+    color: rgb(218, 11, 11);
+    background-color: rgb(228, 199, 205);
+    padding: 6px;
+}
+#trueno
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(193, 248, 239);
+    font-weight: bold;
+    font-size: large;
+    padding: 40px;
+}
